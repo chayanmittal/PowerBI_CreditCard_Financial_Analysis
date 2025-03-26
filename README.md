@@ -59,18 +59,18 @@ PreviousWeekRevenue = CALCULATE(
 
 # Project Insights- Week 53 (31st	Dec)
 ## WoW change:
- 1  Revenue increased by 28.8%.
- 2  Total Transaction Amt & Count increased by 33.5% & 1%.
- 3  Customer count increased by 13%.
+ 1. Revenue increased by 28.8%.
+ 2. Total Transaction Amt & Count increased by 33.5% & 1%.
+ 3. Customer count increased by 13%.
 ## Overview YTD:
- 1 Overall revenue is 57M
- 2 Total interest is 8M
- 3 Total transaction amount is 46M
- 4 Male customers are contributing more in revenue 31M, female 26M
- 5 Blue & Silver credit card are contributing to 93% of overall transactions
- 6 TX, NY & CA is contributing to 68%
- 7 Overall Activation rate is 57.5%
- 8 Overall Delinquent rate is 6.06%
+ 1. Overall revenue is 57M
+ 2. Total interest is 8M
+ 3. Total transaction amount is 46M
+ 4. Male customers are contributing more in revenue 31M, female 26M
+ 5. Blue & Silver credit card are contributing to 93% of overall transactions
+ 6. TX, NY & CA is contributing to 68%
+ 7. Overall Activation rate is 57.5%
+ 8. Overall Delinquent rate is 6.06%
 
 # Credit card financial dashboard using Power BI:
 Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
