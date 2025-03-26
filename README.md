@@ -59,9 +59,9 @@ PreviousWeekRevenue = CALCULATE(
 
 # Project Insights- Week 53 (31st	Dec)
 ## WoW change:
- 1 Revenue increased by 28.8%.
- 2 Total Transaction Amt & Count increased by 33.5% & 1%.
- 3 Customer count increased by 13%.
+ 1  Revenue increased by 28.8%.
+ 2  Total Transaction Amt & Count increased by 33.5% & 1%.
+ 3  Customer count increased by 13%.
 ## Overview YTD:
  1 Overall revenue is 57M
  2 Total interest is 8M
